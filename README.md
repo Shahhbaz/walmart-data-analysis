@@ -1,2 +1,18 @@
-# walmart-data-analysis
-Data analysis project on Walmart dataset using Python, focusing on data cleaning, EDA, and insights generation.
+# Walmart Data Analysis Project
+
+## Objective
+Analyze Walmart sales data to extract meaningful insights.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+## Key Insights
+- Identified sales trends
+- Analyzed customer behavior
+- Generated business insights
+
+## File
+- Walmart_Project.ipynb
